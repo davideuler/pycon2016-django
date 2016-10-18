@@ -1,0 +1,7 @@
+**ropeproject/*
+.idea
+.ropeproject/globalnames
+.ropeproject/objectdb
+**/*.pyc
+**/.ropeproject*
+upload

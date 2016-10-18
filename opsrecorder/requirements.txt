@@ -1,0 +1,2 @@
+Django==1.10.2
+django-admin-bootstrapped==2.5.6
